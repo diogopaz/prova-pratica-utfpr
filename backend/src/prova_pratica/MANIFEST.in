@@ -1,0 +1,6 @@
+graft src/prova_pratica
+graft docs
+include *.rst
+include *.md
+include *.cfg
+global-exclude *.pyc
